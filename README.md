@@ -1,7 +1,7 @@
 # Module-1-Challenge
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Decription
+## Description
 
 The purpose of this Module-1-Challenge is to refactor the starter code in order to create a concise codebase that follows accessibility standards and will display a website that is optimized for search engines. During this challenge, non-semantic elements were identified to be replaced with more semantic elements; the codebase was improved to follow a logical structure; and accessible alt and heading attributes were placed in sequential order. 
 
