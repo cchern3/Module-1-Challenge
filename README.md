@@ -9,7 +9,7 @@ The purpose of this Module-1-Challenge is to refactor the starter code in order 
 To examine and view the refactored code, click the URL at the bottom of the READ.ME under "link to deployed application", then open the Chrome DevTools by pressing 'Command+Option+I' (MacOS) or 'Control+Shift+I' (Windows) or right clicking and selecting 'Inspect'. The console panel will be displayed in the webpage where you can read through the source code and CSS.
 
 Screenshot: 
-![Screen-Shot-2022-10-26-at-11-22-27-PM] (readme-screenshots/Screen Shot 2022-10-26 at 11.22.27 PM.png)
+<img width="1436" alt="screenshotofchromedev" src="https://user-images.githubusercontent.com/25966179/198185820-d810369e-da0e-4199-813e-cef01f076136.png">
 
 Screenshot of website:
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/25966179/198161975-f7033b6e-e069-49de-8e7d-9fb7d5d65ad2.png)
