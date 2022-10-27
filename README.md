@@ -122,3 +122,7 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+Screenshot of image:
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/25966179/198161975-f7033b6e-e069-49de-8e7d-9fb7d5d65ad2.png)
+
