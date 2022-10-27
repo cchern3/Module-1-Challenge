@@ -23,7 +23,7 @@ body {
 /* After changing the <span> element to a <p> element, adjustment to the 'seo' will be needed to maintain original website display.
 Thus, a display: inline-block was added to keep the header under one row, and the font-size needed to be adjusted for 'seo' to match 
 the font size of the rest of letters of the header.*/
-.header h1 .seo {
+.header .seo {
     color: #d9dcd6;
     display: inline-block;
     font-size: 48px;
@@ -67,9 +67,7 @@ a {
 }
 
 /*combined elements to organize and match the css style*/
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -79,9 +77,7 @@ a {
 }
 
 /*combined elements to organize and match the css style*/
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+.content img {
     max-height: 200px;
 }
 
@@ -117,17 +113,13 @@ p {
 }
 
 /*combined elements to organize and match the css style*/
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*combined elements to organize and match the css style*/
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -146,7 +138,7 @@ h3 {
     text-align: center;
 }
 
-/*matched the header to h4*/
-.footer h4 {
+/*modified to h4*/
+h4 {
     font-size: 20px;
 }
